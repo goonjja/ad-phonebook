@@ -1,0 +1,193 @@
+body{
+    font-size: 12px;
+	font-family: arial;
+}
+
+table.main{
+    width:810px;
+    border-width:1px;
+    border-style:solid;
+}
+
+th#jobtitle{
+    width: 150px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#name{
+    width: 270px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#intphone{
+    width: 70px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#mobile{
+    width: 120px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#speed{
+    width: 45px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#email{
+    width: 155px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#companyname{
+    /*border-width:2px;
+    border-style:solid;*/
+    background-color:#efefef;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+th#depname{
+    width:100%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#depcontent{
+    /*border-width:1px;
+    border-style:solid;*/
+}
+
+td#faxname{
+    width:260px;
+    /*border-width:1px;
+    border-style:solid;*/
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#faxvalue{
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:14px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#titlename{
+    width:150px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    background-color:#efefef;
+    font-size:12px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+
+td#hname{
+    width:260px;
+    /*border-width:1px;
+    border-style:solid;*/
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#hlastname{
+    width:50%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:left;
+    font-size:16px;
+}
+
+td#hfirstname{
+    width:50%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:left;
+    font-size:16px;
+}
+
+td#intphone{
+    width:70px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:14px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#mobile{
+    width:120px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:14px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#speed{
+    width:45px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:14px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#email{
+    width:150px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:12px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}

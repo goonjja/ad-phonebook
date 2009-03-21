@@ -1,0 +1,197 @@
+body{
+    font-size: 9px;
+	font-family: arial;
+}
+
+table.main{
+    width:650px;
+    border-width:1px;
+    border-style:solid;
+}
+
+th#jobtitle{
+    width: 150px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#name{
+    width: 270px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#intphone{
+    width: 70px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#mobile{
+    width: 100px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#speed{
+    width: 45px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#email{
+    width: 155px;
+    border-width:1px;
+    border-style:solid;
+    text-align: center;
+    vertical-align: middle;
+    font-style: italic;
+    font-weight: bold;
+}
+
+th#companyname{
+    /*border-width:2px;
+    border-style:solid;*/
+    background-color:#cfcfcf;
+    font-weight: bold;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+}
+
+th#depname{
+    width:1%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align: center;
+    font-size: 8px;
+    font-style: italic;
+    font-weight: bold;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    writing-mode: tb-rl;
+    filter: fliph flipv;
+}
+
+td#depcontent{
+    /*border-width:1px;
+    border-style:solid;*/
+}
+
+td#faxname{
+    width:51%;
+    /*border-width:1px;
+    border-style:solid;*/
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    font-size:9px;
+    text-align: center;
+}
+
+td#faxvalue{
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:9px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#titlename{
+    width:150px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    background-color:#efefef;
+    font-size:9px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-right-style: solid;
+    border-right-width: 1px;
+}
+
+td#hname{
+    width:170px;
+    /*border-width:1px;
+    border-style:solid;*/
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#hlastname{
+    width:35%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:left;
+    font-size:10px;
+}
+
+td#hfirstname{
+    width:65%;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:10px;
+}
+
+td#intphone{
+    width:40px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:10px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#mobile{
+    width:80px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:10px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#speed{
+    width:40px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:10px;
+    background-color:#efefef;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
+td#email{
+    width:100px;
+    /*border-width:1px;
+    border-style:solid;*/
+    text-align:center;
+    font-size:10px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}

@@ -1,0 +1,18 @@
+---
+:host: XXX.XXX.XXX.XXX
+:port:
+:admin_dn: admin@domain
+:admin_pswd: secret
+:base: ou=Users,dc=domain,dc=local
+:output: phonebook
+:companys:
+  ff: 0
+:departments:
+  -: 0
+  Бухгалтерия: 1
+:titles:
+  -: 10
+  Директор: 0
+  Начальник отдела снабжения и поставок: 0
+  Специалист по поставкам: 1
+  Заместитель директора по продажам: 0
